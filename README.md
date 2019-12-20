@@ -1,3 +1,2 @@
 # hello-world
-Just learning
-Happy New Year soon!
+Merry X-mas and Happy New Year!
